@@ -7,3 +7,6 @@
 # Optional Obsidian trash
 .trash/
 
+# Plugin directories
+.claudian/
+
