@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Obsidian local/config/plugin data
+.obsidian/
+
+# Optional Obsidian trash
+.trash/
+
