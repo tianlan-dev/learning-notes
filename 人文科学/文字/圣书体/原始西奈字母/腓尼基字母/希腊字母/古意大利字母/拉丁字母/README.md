@@ -27,7 +27,3 @@ graph TD
 - 现代拉丁字母常通过附加符号、二合字母或扩展字母适配不同语言。
 - 新维文是现代维吾尔语拉丁化方案之一，与传统维文的阿拉伯字母谱系不同。
 
-## 参考资料
-
-- [Latin alphabet - Wikipedia](https://en.wikipedia.org/wiki/Latin_alphabet)
-- [Omniglot: Latin alphabet](https://www.omniglot.com/writing/latin.htm)

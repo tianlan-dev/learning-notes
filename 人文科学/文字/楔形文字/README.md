@@ -44,8 +44,3 @@ graph TD
 - 早期用途偏行政和经济，后来扩展到王室铭文、法律、文学、数学、天文和宗教文本。
 - 《吉尔伽美什史诗》、汉谟拉比法典、亚述和巴比伦王室档案都依赖楔形文字传统保存。
 
-## 参考资料
-
-- [Britannica: Cuneiform](https://www.britannica.com/topic/cuneiform)
-- [Britannica: Writing - Sumerian writing](https://www.britannica.com/topic/writing/Sumerian-writing)
-- [World History Encyclopedia: Cuneiform](https://www.worldhistory.org/cuneiform/)

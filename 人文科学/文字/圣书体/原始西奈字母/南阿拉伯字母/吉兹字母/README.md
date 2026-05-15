@@ -35,7 +35,3 @@ graph TD
 
 - [南阿拉伯字母](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E6%96%87%E5%AD%97/%E5%9C%A3%E4%B9%A6%E4%BD%93/%E5%8E%9F%E5%A7%8B%E8%A5%BF%E5%A5%88%E5%AD%97%E6%AF%8D/%E5%8D%97%E9%98%BF%E6%8B%89%E4%BC%AF%E5%AD%97%E6%AF%8D/README.md)
 
-## 参考资料
-
-- [吉兹字母 - 维基百科](https://zh.wikipedia.org/wiki/%E5%90%89%E8%8C%B2%E5%AD%97%E6%AF%8D)
-- [Omniglot: Ge'ez script](https://www.omniglot.com/writing/ethiopic.htm)

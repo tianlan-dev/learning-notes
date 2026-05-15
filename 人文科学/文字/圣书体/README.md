@@ -47,8 +47,3 @@ graph TD
 - 圣书体内部的表音符号可以表示一个、两个或三个辅音，限定符通常不发音，用来提示词义类别。
 - 原始西奈字母不是圣书体的“简化版”，而是把埃及图像符号重新解释为闪米特语辅音的创新系统。
 
-## 参考资料
-
-- [圣书体 - 维基百科](https://zh.wikipedia.org/wiki/%E5%9C%A3%E4%B9%A6%E4%BD%93)
-- [Britannica: Hieroglyphic writing](https://www.britannica.com/topic/hieroglyphic-writing)
-- [History: Who Created the First Alphabet?](https://www.history.com/articles/who-created-the-first-alphabet)

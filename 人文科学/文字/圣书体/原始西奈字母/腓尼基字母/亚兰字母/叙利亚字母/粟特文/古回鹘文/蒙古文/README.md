@@ -23,7 +23,3 @@ graph TD
 - 传统蒙古文不是西里尔蒙古文；后者是近现代在苏联影响下形成的蒙古语书写方案。
 - 满文在蒙古文字母基础上增加圈点，以更清楚地区分满语音位。
 
-## 参考资料
-
-- [Mongolian script - Wikipedia](https://en.wikipedia.org/wiki/Mongolian_script)
-- [Manchu alphabet - Wikipedia](https://en.wikipedia.org/wiki/Manchu_alphabet)

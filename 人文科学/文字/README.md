@@ -38,9 +38,3 @@ graph TD
 - “字母”不是所有文字的共同起点。字母传统主要在圣书体影响下经原始西奈字母、腓尼基字母等路径扩散。
 - 甲骨文不是中国最早可能存在的符号，但它是目前可确认、成体系、能记录语言的早期汉字材料。
 
-## 参考资料
-
-- [Britannica: Writing](https://www.britannica.com/topic/writing)
-- [Britannica: Cuneiform](https://www.britannica.com/topic/cuneiform)
-- [Britannica: Maya hieroglyphic writing](https://www.britannica.com/topic/Maya-hieroglyphic-writing)
-- [Britannica: Late Shang divination and religion](https://www.britannica.com/place/China/Late-Shang-divination-and-religion)

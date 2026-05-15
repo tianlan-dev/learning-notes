@@ -26,7 +26,3 @@ graph TD
 - 它可用附加点和附加字母适配非阿拉伯语音系，例如波斯语、乌尔都语、维吾尔语、马来语等。
 - 元音可用附加符号标记，但日常书写常省略短元音。
 
-## 参考资料
-
-- [Arabic alphabet - Wikipedia](https://en.wikipedia.org/wiki/Arabic_alphabet)
-- [Omniglot: Arabic alphabet](https://www.omniglot.com/writing/arabic.htm)

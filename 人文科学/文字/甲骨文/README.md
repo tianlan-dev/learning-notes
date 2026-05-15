@@ -39,8 +39,3 @@ graph TD
 
 - [商](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2-%E4%B8%AD%E5%9B%BD/%E6%9C%9D%E4%BB%A3/%E5%95%86/README.md)
 
-## 参考资料
-
-- [Britannica: Late Shang divination and religion](https://www.britannica.com/place/China/Late-Shang-divination-and-religion)
-- [Britannica: The Shang dynasty](https://www.britannica.com/place/China/The-Shang-dynasty)
-- [EVOBC: An open dataset for the evolution of oracle bone characters](https://arxiv.org/abs/2401.12467)

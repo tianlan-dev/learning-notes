@@ -33,8 +33,3 @@ graph TD
 - 玛雅文字不是中美洲最早文字；但它是现存材料最丰富、释读最充分的中美洲文字体系之一。
 - 西班牙殖民时期大量玛雅抄本被毁，现存抄本数量很少，这造成材料断裂。
 
-## 参考资料
-
-- [Britannica: Maya hieroglyphic writing](https://www.britannica.com/topic/Maya-hieroglyphic-writing)
-- [Britannica: Mesoamerican writing systems](https://www.britannica.com/topic/Mesoamerican-Indian-languages/Mesoamerican-writing-systems)
-- [World History Encyclopedia: Maya Writing](https://www.worldhistory.org/article/655/maya-writing/)

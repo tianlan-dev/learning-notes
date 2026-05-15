@@ -49,7 +49,3 @@ graph TD
 
 - [原始西奈字母](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E6%96%87%E5%AD%97/%E5%9C%A3%E4%B9%A6%E4%BD%93/%E5%8E%9F%E5%A7%8B%E8%A5%BF%E5%A5%88%E5%AD%97%E6%AF%8D/README.md)
 
-## 参考资料
-
-- [腓尼基字母 - 维基百科](https://zh.wikipedia.org/wiki/%E8%85%93%E5%B0%BC%E5%9F%BA%E5%AD%97%E6%AF%8D)
-- [Omniglot: Phoenician alphabet and language](https://www.omniglot.com/writing/phoenician.htm)

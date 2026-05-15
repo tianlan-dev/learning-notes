@@ -27,7 +27,3 @@ graph TD
 
 - [西里尔字母](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E6%96%87%E5%AD%97/%E5%9C%A3%E4%B9%A6%E4%BD%93/%E5%8E%9F%E5%A7%8B%E8%A5%BF%E5%A5%88%E5%AD%97%E6%AF%8D/%E8%85%93%E5%B0%BC%E5%9F%BA%E5%AD%97%E6%AF%8D/%E5%B8%8C%E8%85%8A%E5%AD%97%E6%AF%8D/%E6%A0%BC%E6%8B%89%E5%93%A5%E9%87%8C%E5%AD%97%E6%AF%8D/%E8%A5%BF%E9%87%8C%E5%B0%94%E5%AD%97%E6%AF%8D/README.md)
 
-## 参考资料
-
-- [Glagolitic script - Wikipedia](https://en.wikipedia.org/wiki/Glagolitic_script)
-- [Omniglot: Glagolitic alphabet](https://www.omniglot.com/writing/glagolitic.htm)

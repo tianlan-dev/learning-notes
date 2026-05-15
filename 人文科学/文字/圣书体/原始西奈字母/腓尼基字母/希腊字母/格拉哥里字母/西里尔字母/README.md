@@ -25,7 +25,3 @@ graph TD
 - 西里尔字母不是传统蒙古文的来源；蒙古语西里尔字母是近现代另行采用的书写体系。
 - 西里尔维文是维吾尔语在特定历史时期使用的西里尔字母方案，与传统维文、新维文属于不同书写方案。
 
-## 参考资料
-
-- [Cyrillic script - Wikipedia](https://en.wikipedia.org/wiki/Cyrillic_script)
-- [Omniglot: Cyrillic alphabet](https://www.omniglot.com/writing/cyrillic.htm)
