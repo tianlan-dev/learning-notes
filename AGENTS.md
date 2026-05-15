@@ -52,6 +52,7 @@
 
 - 操作这个 vault / repo 时，读取、搜索、创建、移动、重命名、修改笔记都优先使用 Obsidian MCP。
 - 只有当 Obsidian MCP 无法完成任务，或任务明显不属于 Obsidian 笔记操作时，才使用其他工具。
+- 所有 Git commit message 必须使用中文书写。
 - 未得到用户明确允许时，不要对已加入 Git 暂存区的内容执行撤销、取消暂存、覆盖或进一步 `git add`。
 - 未得到用户明确允许时，不要执行任何会修改 Git 暂存区 / index 的命令，包括但不限于 `git add`、`git mv`、`git rm`、`git reset`、`git restore --staged`。
 - 移动、重命名文件或目录时，默认使用普通文件系统命令 `mv`、`mkdir`、`rmdir`，不要使用 `git mv`；只有用户明确要求“移动并暂存”“stage 这些移动”“提交前整理暂存区”时，才可以使用 `git mv` 或后续 `git add`。
