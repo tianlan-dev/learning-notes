@@ -47,7 +47,7 @@ flowchart LR
 
 ## 图片
 
-![春秋形势图](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2-%E4%B8%AD%E5%9B%BD/%E6%9C%9D%E4%BB%A3/%E5%91%A8/%E6%98%A5%E7%A7%8B/_images/%E6%98%A5%E7%A7%8B-01.png)
+![春秋形势图](/_resources/%E6%98%A5%E7%A7%8B-01.png)
 
 ## 相关笔记
 
