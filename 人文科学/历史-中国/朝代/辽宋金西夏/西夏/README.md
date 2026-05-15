@@ -59,4 +59,4 @@ flowchart LR
 
 ## 世系
 
-- [西夏君主世系](%E4%B8%96%E7%B3%BB.md)
+- [西夏君主世系](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2-%E4%B8%AD%E5%9B%BD/%E6%9C%9D%E4%BB%A3/%E8%BE%BD%E5%AE%8B%E9%87%91%E8%A5%BF%E5%A4%8F/%E8%A5%BF%E5%A4%8F/%E4%B8%96%E7%B3%BB.md)
