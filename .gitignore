@@ -9,6 +9,8 @@
 
 # Plugin directories
 .claudian/
+.claude/
+.codex/
 
 # Temp files
 _待整理/
