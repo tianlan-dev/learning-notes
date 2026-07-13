@@ -17,11 +17,14 @@ flowchart TD
     EastAsia --> Japan["日本"]
     EastAsia --> Korea["朝鲜半岛"]
     EastAsia --> Mongolia["蒙古"]
+    China --> Taiwan["台湾历史"]
     China -->|使节、战争、文字与制度交流| Japan
     China -->|王朝互动、边疆与文化传播| Korea
     China -->|农耕—草原贸易、战争与多族群帝国| Mongolia
     Korea -->|迁徙、海域贸易与战争| Japan
     Mongolia -->|草原网络与蒙古帝国| Korea
+    Taiwan -->|1895-1945 日本殖民统治| Japan
+    Japan -->|战后贸易、文化与人员往来| Taiwan
 ```
 
 ## 区域与国家入口
@@ -33,6 +36,7 @@ flowchart TD
 | 日本 | [日本](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E4%BA%9A/%E6%97%A5%E6%9C%AC/README.md) | 从史前、律令国家、幕府到帝国扩张和战后日本。 |
 | 朝鲜半岛 | [朝鲜半岛](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E4%BA%9A/%E6%9C%9D%E9%B2%9C%E5%8D%8A%E5%B2%9B/README.md) | 从古朝鲜、三国、统一新罗、高丽、朝鲜王朝到南北分裂。 |
 | 蒙古 | [蒙古](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E4%BA%9A/%E8%92%99%E5%8F%A4/README.md) | 蒙古高原诸政权、蒙古帝国、北元、清代蒙古和现代蒙古国。 |
+| 台湾（中国目录内） | [台湾历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E4%BA%9A/%E4%B8%AD%E5%9B%BD/%E5%8F%B0%E6%B9%BE/README.md) | 原住民族、海域网络、荷西与郑氏、清代、日本统治、战后治理和民主化。 |
 
 ## 与中国朝代和民族史的互引
 
@@ -46,3 +50,4 @@ flowchart TD
 - [世界历史通史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/_%E9%80%9A%E5%8F%B2/README.md)
 - [东南亚历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E5%8D%97%E4%BA%9A/README.md)
 - [中亚历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%AD%E4%BA%9A/README.md)
+- [北亚历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E5%8C%97%E4%BA%9A/README.md)
