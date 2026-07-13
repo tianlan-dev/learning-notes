@@ -23,7 +23,7 @@ flowchart TD
     World --> WestAsia["西亚"]
     World --> NorthAfrica["北非"]
     World --> Europe["欧洲"]
-    World --> Africa["非洲"]
+    World --> Africa["撒哈拉以南非洲"]
     World --> Americas["美洲"]
     World --> Oceania["大洋洲"]
 
@@ -51,7 +51,7 @@ flowchart TD
 | 西亚 | [西亚历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E8%A5%BF%E4%BA%9A/README.md) | 两河、黎凡特、阿拉伯半岛、南高加索、伊朗、土耳其和塞浦路斯 |
 | 北非 | [北非历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E5%8C%97%E9%9D%9E/README.md) | 埃及、马格里布、撒哈拉、苏丹、殖民与现代国家 |
 | 欧洲 | [欧洲历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E6%AC%A7%E6%B4%B2/README.md) | 古希腊、古罗马、中世纪、民族国家、革命、殖民和现代欧洲 |
-| 非洲 | [非洲历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E9%9D%9E%E6%B4%B2/README.md) | 西非、东非、中非、南部非洲和殖民独立 |
+| 撒哈拉以南非洲 | [撒哈拉以南非洲历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E9%9D%9E%E6%B4%B2/README.md) | 西非、东非、中非、南部非洲和殖民独立；北非另设一级入口 |
 | 美洲 | [美洲历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E7%BE%8E%E6%B4%B2/README.md) | 前哥伦布文明、欧洲殖民、独立运动和现代国家 |
 | 大洋洲 | [大洋洲历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E5%A4%A7%E6%B4%8B%E6%B4%B2/README.md) | 澳大利亚、新西兰、太平洋岛屿、殖民和现代国家 |
 | 俄罗斯与东斯拉夫 | [东斯拉夫历史演变](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E6%AC%A7%E6%B4%B2/%E6%96%AF%E6%8B%89%E5%A4%AB/%E4%B8%9C%E6%96%AF%E6%8B%89%E5%A4%AB/README.md) | 基辅罗斯、莫斯科公国、沙皇俄国、苏联和现代俄罗斯；亚洲区域史另见北亚 |
@@ -67,3 +67,4 @@ flowchart TD
 
 - 上级目录：[人文科学](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/README.md)
 - 中国历史：[中国](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E4%BA%9A/%E4%B8%AD%E5%9B%BD/README.md)
+- 本轮结构迁移：[历史演进框架重组迁移记录](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E5%8E%86%E5%8F%B2%E6%BC%94%E8%BF%9B%E6%A1%86%E6%9E%B6%E9%87%8D%E7%BB%84%E8%BF%81%E7%A7%BB%E8%AE%B0%E5%BD%95.md)

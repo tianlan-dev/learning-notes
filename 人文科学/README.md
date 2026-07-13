@@ -10,8 +10,8 @@ title: 人文科学
 
 ```mermaid
 graph TD
-    Humanities["人文科学"] --> ChinaHistory["中国"]
-    Humanities --> WorldHistory["历史"]
+    Humanities["人文科学"] --> WorldHistory["历史"]
+    WorldHistory --> ChinaHistory["中国历史（快捷入口）"]
     Humanities --> Philosophy["哲学"]
     Humanities --> Religion["宗教"]
     Humanities --> Architecture["建筑"]
@@ -23,8 +23,8 @@ graph TD
 
 | 分支 | 整理重点 | 链接 |
 | --- | --- | --- |
-| 中国 | 中国历史时期、政权演变、制度和民族线索 | [中国](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E4%BA%9A/%E4%B8%AD%E5%9B%BD/README.md) |
 | 历史 | 世界各地区历史、文明演变和国家发展 | [历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/README.md) |
+| 中国历史（快捷入口） | 中国历史时期、政权演变、制度和民族线索；结构上属于“历史 → 东亚 → 中国” | [中国历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E4%BA%9A/%E4%B8%AD%E5%9B%BD/README.md) |
 | 哲学 | 哲学传统、思想流派和关键概念 | [哲学](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%93%B2%E5%AD%A6/README.md) |
 | 宗教 | 宗教传统、经典体系、教派关系和历史发展 | [宗教](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%AE%97%E6%95%99/README.md) |
 | 建筑 | 建筑风格、地域传统和时代演变 | [建筑](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%BB%BA%E7%AD%91/README.md) |

@@ -20,7 +20,7 @@ flowchart LR
   LaterJin --> LaterHan[后汉]
   LaterHan --> LaterZhou[后周]
   LaterZhou --> NorthernSong[北宋]
-  LaterJin -.割让燕云十六州.-> Liao[辽]
+  LaterJin -->|割让燕云十六州| Liao[辽]
 ```
 
 ## 历史顺序

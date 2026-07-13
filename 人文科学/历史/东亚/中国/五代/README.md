@@ -21,11 +21,11 @@ flowchart LR
   LaterHan --> LaterZhou[后周]
   LaterZhou --> NorthernSong[北宋]
 
-  Tang -.藩镇割据延续.-> TenKingdoms[十国并立]
-  Tang -.边地与其他割据.-> OtherRegimes[后汉及其他政权]
-  TenKingdoms -.陆续被宋平定.-> NorthernSong
-  OtherRegimes -.部分归宋或转入周边政权.-> NorthernSong
-  LaterJin -.割让燕云十六州.-> Liao[辽]
+  Tang -->|藩镇割据延续| TenKingdoms[十国并立]
+  Tang -->|边地与其他割据| OtherRegimes[后汉及其他政权]
+  TenKingdoms -->|陆续被宋平定| NorthernSong
+  OtherRegimes -->|部分归宋或转入周边政权| NorthernSong
+  LaterJin -->|割让燕云十六州| Liao[辽]
   NorthernSong --> NorthernHan[北汉被灭]
 ```
 

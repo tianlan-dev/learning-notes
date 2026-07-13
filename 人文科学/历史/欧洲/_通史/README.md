@@ -20,9 +20,13 @@ flowchart TD
     Germanic --> Frankish["法兰克王国与查理曼帝国"]
     EastRome --> MedievalEast["东欧与东地中海中世纪秩序"]
     Frankish --> MedievalWest["西欧中世纪王权、教会与封建秩序"]
+    Frankish --> CentralEurope["中欧复合王国、帝国与边疆网络"]
+    MedievalEast --> CentralEurope
     MedievalWest --> Crusades["十字军东征"]
     MedievalWest --> Renaissance["文艺复兴、宗教改革与海外扩张"]
     MedievalEast --> OttomanHabsburg["奥斯曼—哈布斯堡竞争与东欧重组"]
+    CentralEurope --> OttomanHabsburg
+    CentralEurope --> Revolutions
     Renaissance --> Revolutions["革命、启蒙与民族国家形成"]
     OttomanHabsburg --> Nations["中东欧与巴尔干民族国家形成"]
     Revolutions --> Nations
@@ -43,6 +47,12 @@ flowchart TD
 | 7 | 革命与民族国家 | 17—19世纪 | [法国](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E6%AC%A7%E6%B4%B2/%E6%B3%95%E5%9B%BD/README.md)、[德意志](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E6%AC%A7%E6%B4%B2/%E5%BE%B7%E6%84%8F%E5%BF%97/README.md) | 英格兰革命、启蒙与法国大革命改变政治语言，德国、意大利等完成民族统一。 |
 | 8 | 世界大战与欧洲重组 | 1914—1945年 | [两次世界大战](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/_%E9%80%9A%E5%8F%B2/%E4%B8%A4%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98.md) | 两次大战瓦解旧帝国体系，造成大规模暴力、边界重组与全球力量转移。 |
 | 9 | 冷战与欧洲一体化 | 1945年至今 | [冷战、非殖民化与全球化](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/_%E9%80%9A%E5%8F%B2/%E5%86%B7%E6%88%98%E3%80%81%E9%9D%9E%E6%AE%96%E6%B0%91%E5%8C%96%E4%B8%8E%E5%85%A8%E7%90%83%E5%8C%96.md) | 欧洲分裂为不同政治军事阵营，同时推进战后重建、福利国家和区域一体化。 |
+
+## 跨时期区域框架
+
+| 框架 | 时间范围 | 入口 | 作用 |
+|---|---|---|---|
+| 中欧历史空间 | 古代边疆至当代 | [中欧历史空间](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E6%AC%A7%E6%B4%B2/_%E9%80%9A%E5%8F%B2/%E4%B8%AD%E6%AC%A7%E5%8E%86%E5%8F%B2%E7%A9%BA%E9%97%B4.md) | 横向比较神圣罗马帝国、瑞士、匈牙利、哈布斯堡体系和近现代国家重组，不取代各国连续史。 |
 
 ## 阶段要点
 
@@ -85,6 +95,7 @@ flowchart TD
 
 ## 专题入口
 
+- [中欧历史空间](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E6%AC%A7%E6%B4%B2/_%E9%80%9A%E5%8F%B2/%E4%B8%AD%E6%AC%A7%E5%8E%86%E5%8F%B2%E7%A9%BA%E9%97%B4.md)
 - [欧洲四大帝王与四大名将](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E6%AC%A7%E6%B4%B2/_%E9%80%9A%E5%8F%B2/%E6%AC%A7%E6%B4%B2%E5%9B%9B%E5%A4%A7%E5%B8%9D%E7%8E%8B%E4%B8%8E%E5%9B%9B%E5%A4%A7%E5%90%8D%E5%B0%86.md)
 - [世界历史通史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/_%E9%80%9A%E5%8F%B2/README.md)
 - [欧洲历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E6%AC%A7%E6%B4%B2/README.md)
