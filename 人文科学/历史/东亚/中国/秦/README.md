@@ -66,3 +66,8 @@ flowchart LR
 - 前一阶段：战国七雄中的秦国。
 - 后一阶段：秦亡后进入楚汉相争，最终由刘邦建立汉朝。
 - 相关笔记：[秦末群雄](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E4%BA%9A/%E4%B8%AD%E5%9B%BD/%E7%A7%A6/%E7%A7%A6%E6%9C%AB%E7%BE%A4%E9%9B%84.md)、[../汉/README.md](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E4%BA%9A/%E4%B8%AD%E5%9B%BD/%E6%B1%89/README.md)。
+
+
+## 直接上级
+
+- [中国](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E4%BA%9A/%E4%B8%AD%E5%9B%BD/README.md)

@@ -49,8 +49,8 @@ title: 史前时期
 flowchart LR
   Paleolithic[旧石器时代] --> NeolithicEarly[新石器时代早中期]
   NeolithicEarly --> NeolithicLate[新石器时代中晚期]
-  NeolithicLate --> Longshan[龙山时代 / 铜石并用]
-  Longshan --> EarlyStates[二里头、商、周等早期国家]
+  NeolithicLate --> Longshan["龙山时代 / 铜石并用"]
+  Longshan --> EarlyStates["二里头、商、周等早期国家"]
 ```
 
 ## 说明
@@ -58,3 +58,8 @@ flowchart LR
 - 史前文化的时间多为考古学分期，不等同于后世王朝纪年。
 - 各区域文化并非单线继承关系，而是长期并行、互动、融合和替代。
 - “母系、父系、神话时代、夏、商、周”等标签多是为了帮助对照传统历史叙事，不能简单等同于考古学文化本身。
+
+
+## 直接上级
+
+- [中国](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E4%B8%9C%E4%BA%9A/%E4%B8%AD%E5%9B%BD/README.md)

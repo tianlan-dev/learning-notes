@@ -4,6 +4,8 @@ title: 东斯拉夫历史演变
 ---
 # 东斯拉夫历史演变
 
+[返回斯拉夫历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E6%AC%A7%E6%B4%B2/%E6%96%AF%E6%8B%89%E5%A4%AB/README.md)
+
 ```mermaid
 flowchart TD
     A["早期斯拉夫人<br/>1世纪"] --> B["斯拉夫人分化<br/>6世纪"]

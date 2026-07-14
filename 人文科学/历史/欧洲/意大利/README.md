@@ -5,6 +5,8 @@ title: 意大利历史
 
 # 意大利历史
 
+[返回欧洲历史](/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6/%E5%8E%86%E5%8F%B2/%E6%AC%A7%E6%B4%B2/README.md)
+
 ```mermaid
 flowchart TD
     N0["史前与意大利诸民族时期"]
